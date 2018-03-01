@@ -1,2 +1,0 @@
-1;Dustin Jaacks;Teglholmens Østkaj;47;2450;29.09.1993;12345678;290993-4403;djaa93;hamburg;
-2;Han Solo;Smuggle Gade;77;1500;05.03.1972;12345678;050372-5503;hsol80;yavin42;
