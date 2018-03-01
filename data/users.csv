@@ -1,0 +1,4 @@
+id;role;name;street name;house number;post code;date of birth;telephone;cpr;username;password
+1;administrator;John Doe;Javagade;42;2450;12.01.1990;12345678;120190-2201;jdoe;root 
+2;customer;Michelle Deer;Javagade;12;2450;29.07.1991;87654321;290791-1234;mdee;dee1423 
+3;car owner;Jason Chevalier;Javagade;19;2450;09.12.1977;41524123;091277-4123;jche;chev1231 

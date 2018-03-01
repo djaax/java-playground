@@ -1,0 +1,13 @@
+		id 			= newId;
+		type 		= newType;
+		seats 		= newSeats;
+		description	= newDescription;
+		brand		= newBrand;
+		rate 		= newRate;
+
+Types: Sedans, Station Wagons, Vans, Sports Car, Convertibles
+Seats: 2,4,7
+Transmissions: Manual, Automatic
+Brands: Smart, Volkswagen, BMW, Audi, Ferrari, Toyota, Tesla, Porsche, Mercedes
+
+1; Sedan; 
